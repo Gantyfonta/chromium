@@ -1,0 +1,5 @@
+{
+  "name": "React Chromium",
+  "description": "A React-based web browser simulation using standard web technologies. It features tabbed browsing, history management, and URL navigation via iframes, designed to be deployable to static hosts like GitHub Pages.",
+  "requestFramePermissions": []
+}
